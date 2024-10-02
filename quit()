@@ -1,0 +1,35 @@
+[33mcommit 4c2a653eccbdbfbeb9272438b96fab538232d4bc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Pablo Rigueiro <pablorigueiro@rai.usc.es>
+Date:   Thu Sep 26 09:36:43 2024 +0200
+
+    Añadida funcion para calcular el perimetro
+
+[33mcommit 380b8ca5df66b544c12b4e37406d5b20a50358da[m
+Author: Pablo Rigueiro <pablorigueiro@rai.usc.es>
+Date:   Thu Sep 26 09:35:08 2024 +0200
+
+    Añadida funcion para identificarse
+
+[33mcommit 7172418fdbf5b345065683460515a41f1f9fda53[m
+Author: Pablo Rigueiro <pablorigueiro@rai.usc.es>
+Date:   Thu Sep 26 09:30:33 2024 +0200
+
+    Configurando gitignore
+
+[33mcommit a8747ad739adac082fb3cb608241cced336a727b[m
+Author: Pablo Rigueiro <pablorigueiro@rai.usc.es>
+Date:   Thu Sep 26 09:27:28 2024 +0200
+
+    Eliminada la carpeta _pycache_
+
+[33mcommit 289d1742d265efb6d6ea5f8f165ea7edb215b2cc[m
+Author: Pablo Rigueiro <pablorigueiro@rai.usc.es>
+Date:   Thu Sep 26 09:16:30 2024 +0200
+
+    Mi segundo commit
+
+[33mcommit 742d76490ed5bb699e3bf984c47d948f1720494e[m
+Author: Pablo Rigueiro <pablorigueiro@rai.usc.es>
+Date:   Thu Sep 26 09:03:47 2024 +0200
+
+    Mi primer commit
