@@ -1,4 +1,4 @@
-from lib import cuadrado, triangulo, rectangulo
+from lib import cuadrado, triangulo, rectangulo, circunferencia
 print("Proyecto Figuras")
 print(cuadrado.get_identificador())
 lado = 4
@@ -14,3 +14,5 @@ base_rectangulo = 4
 altura_rectangulo = 2
 print(rectangulo.get_identificador())
 print(f"El área de un {rectangulo.get_identificador()} de base {base_rectangulo} y altura {altura_rectangulo} es {rectangulo.get_area(base_rectangulo, altura_rectangulo)} y el perímetro es {rectangulo.get_perimetro(base_rectangulo, altura_rectangulo)}")
+radio=5
+print(f"El área de la circunferencia es {circunferencia.get_area(radio)}")
